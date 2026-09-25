@@ -1,0 +1,24 @@
+{
+  "name": "atividade-fullstack---dia-1609",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowinckb/Atividade-Fullstack---16-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/brunowinckb/Atividade-Fullstack---16-09/issues"
+  },
+  "homepage": "https://github.com/brunowinckb/Atividade-Fullstack---16-09#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
